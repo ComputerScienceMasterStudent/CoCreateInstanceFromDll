@@ -1,2 +1,2 @@
 # CoCreateInstanceFromDll
-Create COM interface from DLL instead of using CoCreateInstance
+Creates a COM interface from a DLL instead of using CoCreateInstance
